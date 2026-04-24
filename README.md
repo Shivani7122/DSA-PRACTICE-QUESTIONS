@@ -72,4 +72,8 @@ python filename.py
 Contributions are welcome!
 Feel free to fork and add more problems.
 
+👩‍💻 Author
+
+Shivani Gupta
+
 🔗 LinkedIn: https://www.linkedin.com/in/shivani-gupta7122
